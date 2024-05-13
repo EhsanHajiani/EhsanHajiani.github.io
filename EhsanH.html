@@ -6,25 +6,164 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>page d'accueil</title>
     <style>
-        body {
-            background-color: black;
-        }
-        div {
-            width: 300px;
+        /* styles.css */
 
-            background-color: yellow;
-        }
+body {
+  background-image: url('./Ehsan.PNG');
+  background-size: cover;
+  background-position: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.Welcome {
+  width: 80%;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  color: #e76916;
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.Ehsan {
+  width: 80%;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  color: #c07694b7;
+  text-align: center;
+}
+
+.container, .interdiv, .passion, .bottom-div {
+  width: 80%;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #6821f6;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h4, .interdiv h4 {
+  margin-bottom: 20px;
+}
+
+.passion p {
+  margin-bottom: 20px;
+}
+
+.bottom-div {
+  text-align: center;
+}
+
+.bottom-div img {
+  display: block;
+  margin: 0 auto 10px;
+  max-width: 100%;
+  transition: transform 0.3s ease;
+}
+
+.bottom-div img:hover {
+  transform: scale(1.1);
+}
+
+
     </style>
 </head>
 
 <body>
-   
-    <div>
+    <div class="Welcome">
         <h1>Bienvenue</h1>
-        <p>bienvenu sur ma page HTML !</p>
+        <p>Bienvenue sur ma page HTML !</p>
     </div>
-    <img src="Cattura.PNG" alt="Ehsan">
+    <div class="Ehsan">
+        <p><mark><span class="centeredline">👋 Hi, I’m Ehsan</span></mark> <br>👀 I’m interested in Theater, Cinema and
+            Acting.<br>🌱
+            I’m currently learning Multilingual Communication Technology.<br>💞️ I’m looking to collaborate on how to
+            get
+            busy living.<br>📫 How to reach me: ehsan_hajiani@hotmail.com<br>😄 Pronouns: He, Him, Himself<br>⚡ Fun
+            fact: I am a Man for All Seasons...</p>
+    </div>
+
+    <div class="container">
+        <h4>
+            <p class="justified"> <mark><span class="centeredLine">My work experiences from 2006 to
+                        2023</span></mark><br>-Content Producer and Translator,
+                <br>-Accounting Assisstant,
+                <br>-Military Service Soldier,
+                <br>-Notary Employee,
+                <br>-Office Clerk
+                <br*2>
+            </p>
+        </h4>
+        <div class="interdiv">
+            <h4>
+                <p>
+                    <mark><span class="CenteredLine">My academic studies during 2002 to 2023</mark></span>
+                    <br>Economics (Associate's Degree),
+                    <br>French Translation (Bachelor's),
+                    <br>General Linguistics (Master's),
+                    <br><br>And now studying for a Master’s in Multilingual Communication Technology at the Faculty of
+                    Translation and Interpretation, University of Geneva (starting autumn 2023)
+                </p>
+                <br*2>
+                    </p>
+            </h4>
+        </div>
+    </div>
+
     
+
+    <div class="passion">
+        <mark><span class="texttwo">My passions in life are languages and arts</span></mark>
+        <h4></h4>
+        <p class="textone">
+            I have some knowledge of:
+            <br>Persian: my mother tongue
+            <br>and according to Common European Framework of Reference for Languages:
+            English: C1 level
+            <br>French: B2 level
+            <br>Italian: B1 level
+            <br>German: B1 level
+            <br>Latin: A1 level
+            <br>Arabic: A2 level</h4>
+        </p>
+        <p class="textthree">
+            Some of the creative arts and hobbies:
+            <br>I have participated in some amateur camera and stage performing arts and acting projects
+            <br>I have participated also in a professional theater project:
+            <a href="https://www.tiwall.com/p/molaghat2" target="_blank">Theater</a>
+            <br>I have a little part in an Iranian television series:
+            <a href="https://ifilo.net/v/w3YFBK1" target="_blank">Television</a>
+            <br> also participated in a television commercial (2017)
+            <br>sing and play some Iranian traditional musical instruments
+            <br>I like reading many genres like philosophy, sociology, history, novels and …
+            <br>I spend at least three times a weeks doing some sportive activity and exercise
+
+        </p>
+
+
+    </div>
+    <div class="bottom-div">
+        <p>As a fervent admirer of the brilliant detective Sherlock Holmes, my fascination with his unparalleled
+            intellect and deductive prowess knows no bounds. Immersing myself in the intricate mysteries penned by Sir
+            Arthur Conan Doyle, I find myself captivated by each enigma Holmes unravels with meticulous precision.
+
+            Being a Sherlockian isn't merely a hobby; it's a passion that permeates every aspect of my life. From
+            eagerly dissecting the intricate plots of Doyle's stories to engaging in spirited discussions with fellow
+            enthusiasts, I find immense joy in exploring the intricate world of 221B Baker Street.</p>
+        <img src="./sherlock-holmes-jeremy-brett.jpg" alt="SherlockHolmes">
+    </div>
+
+    </div>
+
+
 </body>
 
 </html>
