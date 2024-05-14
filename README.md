@@ -10,10 +10,10 @@ This is the repository for my personal website. Below are some details about me 
 
 ## Interests
 
-- Theater
-- Cinema
-- Acting
-- Multilingual Communication Technology
+- _Theater_
+- _Cinema_
+- _Acting_
+- _Multilingual Communication Technology_
 
 ## Work Experience
 
@@ -27,18 +27,18 @@ This is the repository for my personal website. Below are some details about me 
 
 - Economics (`Associate's Degree`)
 - French Translation (**Bachelor's Degree**)
-- General Linguistics (***Master's Degree***)
-- Currently studying for a Master’s in Multilingual Communication Technology at the Faculty of Translation and Interpretation, University of Geneva.
+- General Linguistics (**Master's Degree**)
+- `Currently studying for a Master’s in Multilingual Communication Technology at the Faculty of Translation and Interpretation, University of Geneva.`
 
 ## Language Skills
 
-- Persian: Native
-- English: C1
-- French: B2
-- Italian: B1
-- German: B1
-- Latin: A1
-- Arabic: A2
+- ***Persian: Native***
+- ***English: C1***
+- ***French: B2***
+- ***Italian: B1***
+- ***German: B1***
+- ***Latin: A1***
+- ***Arabic: A2***
 
 ## Hobbies
 
