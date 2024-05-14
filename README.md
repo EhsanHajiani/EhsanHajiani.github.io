@@ -17,17 +17,17 @@ This is the repository for my personal website. Below are some details about me 
 
 ## Work Experience
 
-- Content Producer and Translator
-- Accounting Assistant
-- Military Service Soldier
-- Notary Employee
-- Office Clerk
+1. Content Producer and Translator
+2. Accounting Assistant
+3. Military Service Soldier
+4. Notary Employee
+5. Office Clerk
 
 ## Academic Background
 
-- Economics (Associate's Degree)
-- French Translation (Bachelor's Degree)
-- General Linguistics (Master's Degree)
+- Economics (`Associate's Degree`)
+- French Translation (**Bachelor's Degree**)
+- General Linguistics (***Master's Degree***)
 - Currently studying for a Master’s in Multilingual Communication Technology at the Faculty of Translation and Interpretation, University of Geneva.
 
 ## Language Skills
